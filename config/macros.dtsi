@@ -1,3 +1,27 @@
+macro_open_winrun: macro_open_winrun{
+compatible = "zmk,behavior-macro";
+label = "macro_open_winrun";
+#binding-cells = <0>;
+bindings = <&kp LG(R)>;
+};
+macro_open_fileexp: macro_open_fileexp{
+compatible = "zmk,behavior-macro";
+label = "macro_open_fileexp";
+#binding-cells = <0>;
+bindings = <&kp LG(E)>;
+};
+macro_open_term: macro_open_term{
+compatible = "zmk,behavior-macro";
+label = "macro_open_term";
+#binding-cells = <0>;
+bindings = <&kp LG(N1)>;
+};
+macro_open_term_admin: macro_open_term_admin{
+compatible = "zmk,behavior-macro";
+label = "macro_open_term_admin";
+#binding-cells = <0>;
+bindings = <&kp LG(LC(LS(NUMBER_1)))>;
+};
 macro_teams_cam: macro_teams_cam{
 compatible = "zmk,behavior-macro";
 label = "macro_teams_cam";
