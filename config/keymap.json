@@ -11,7 +11,7 @@
   "layers": [
     [
        "&kp EQUAL",           "&kp N1",     "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",                     "&tog 1",                                                                                "&mo 3", "&kp N6", "&kp N7",   "&kp N8",   "&kp N9",   "&kp N0",     "&kp MINUS",
-         "&kp TAB", "&kp SINGLE_QUOTE",  "&kp COMMA",  "&kp DOT",     "&kp P",  "&kp T",                      "&none",                                                                                "&none",  "&kp F",  "&kp G",    "&kp C",    "&kp R",    "&kp L",     "&kp SLASH",
+         "&kp TAB", "&kp SINGLE_QUOTE",  "&kp COMMA",  "&kp DOT",     "&kp P",  "&kp Y",                      "&none",                                                                                "&none",  "&kp F",  "&kp G",    "&kp C",    "&kp R",    "&kp L",     "&kp SLASH",
            "&none",            "&kp A",      "&kp O",    "&kp E",     "&kp U",  "&kp I",           "&macro_teams_mic", "&kp LCTRL", "&kp LALT",  "&none",  "&none",      "&kp LGUI",   "&kp ESC",     "&none",  "&kp D",  "&kp H",    "&kp T",    "&kp N",    "&kp S", "&kp BACKSLASH",
        "&kp LSHFT",    "&kp SEMICOLON",      "&kp Q",    "&kp J",     "&kp K",  "&kp X",                      "&none",     "&none", "&kp HOME",  "&none",  "&none",     "&kp PG_UP",     "&none",     "&none",  "&kp B",  "&kp M",    "&kp W",    "&kp V",    "&kp Z",     "&kp RSHFT",
            "&mo 2",        "&kp GRAVE", "&caps_word", "&kp LEFT", "&kp RIGHT",                             "&kp BSPC",   "&kp DEL",  "&kp END",                     "&kp LA(SPACE)", "&kp ENTER", "&kp SPACE",           "&kp UP", "&kp DOWN", "&kp LBKT", "&kp RBKT",         "&mo 2"
