@@ -1,3 +1,9 @@
+macro_pass_regis: macro_pass_regis{
+compatible = "zmk,behavior-macro";
+label = "macro_pass_regis";
+#binding-cells = <0>;
+bindings = <&kp LS(P)>, <&kp A>, <&kp DOLLAR>, <&kp DOLLAR>, <&kp W>, <&kp N0>, <&kp R>, <&kp D>;
+};
 macro_win_new_folder: macro_win_new_folder{
 compatible = "zmk,behavior-macro";
 label = "macro_win_new_folder";
