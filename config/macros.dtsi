@@ -1,3 +1,15 @@
+macro_vs_cmdpalette: macro_vs_cmdpalette{
+compatible = "zmk,behavior-macro";
+label = "macro_vs_cmdpalette";
+#binding-cells = <0>;
+bindings = <&kp LC(LS(P))>;
+};
+macro_launcher: macro_launcher{
+compatible = "zmk,behavior-macro";
+label = "macro_launcher";
+#binding-cells = <0>;
+bindings = <&kp LA(SPACE)>;
+};
 macro_pass_regis: macro_pass_regis{
 compatible = "zmk,behavior-macro";
 label = "macro_pass_regis";
