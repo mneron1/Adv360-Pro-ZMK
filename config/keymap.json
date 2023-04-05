@@ -8,12 +8,13 @@
     "useless",
     "mod",
     "RightSub",
-    "LeftSub"
+    "LeftSub",
+    "Dofus"
   ],
   "layers": [
     [
        "&kp EQUAL",           "&kp N1",     "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",                     "&tog 1",                                                                                      "&mo 3", "&kp N6", "&kp N7",   "&kp N8",   "&kp N9",   "&kp N0",     "&kp MINUS",
-         "&kp ESC", "&kp SINGLE_QUOTE",  "&kp COMMA",  "&kp DOT",     "&kp P",  "&kp Y",                      "&none",                                                                                      "&none",  "&kp F",  "&kp G",    "&kp C",    "&kp R",    "&kp L",     "&kp SLASH",
+         "&kp ESC", "&kp SINGLE_QUOTE",  "&kp COMMA",  "&kp DOT",     "&kp P",  "&kp Y",                     "&tog 6",                                                                                      "&none",  "&kp F",  "&kp G",    "&kp C",    "&kp R",    "&kp L",     "&kp SLASH",
          "&kp TAB",            "&kp A",      "&kp O",    "&kp E",     "&kp U",  "&kp I",           "&macro_teams_mic", "&kp LCTRL", "&kp LALT",  "&none",  "&none",      "&kp LGUI", "&kp RCTRL", "&macro_launcher",  "&kp D",  "&kp H",    "&kp T",    "&kp N",    "&kp S", "&kp BACKSLASH",
        "&kp LSHFT",    "&kp SEMICOLON",      "&kp Q",    "&kp J",     "&kp K",  "&kp X",                      "&none",     "&none", "&kp HOME",  "&none",  "&none",   "&kp PAGE_UP",     "&none",           "&none",  "&kp B",  "&kp M",    "&kp W",    "&kp V",    "&kp Z",    "&kp RSHIFT",
            "&mo 5",        "&kp GRAVE", "&caps_word", "&kp LEFT", "&kp RIGHT",                             "&kp BSPC",   "&kp DEL",  "&kp END",                     "&kp PAGE_DOWN", "&kp ENTER",       "&kp SPACE",           "&kp UP", "&kp DOWN", "&kp LBKT", "&kp RBKT",         "&mo 4"
@@ -47,6 +48,12 @@
         "&none",  "&none",  "&none",  "&none",  "&none",  "&none",            "&none",  "&none",  "&none", "&trans", "&trans",  "&none",  "&none",  "&none",  "&none", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",   "&none",   "&none",   "&none",
         "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&trans", "&trans",  "&none", "&trans", "&trans",  "&none", "&trans", "&trans",  "&none",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",   "&none",   "&none",   "&none",
         "&none",  "&none",  "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",               "&kp LC(LS(PLUS))",         "&kp LC(MINUS)",   "&none",   "&none",   "&none"
+    ], [
+            "&kp EQUAL", "&kp NUMBER_1", "&kp NUMBER_2",   "&kp NUMBER_3",    "&kp NUMBER_4", "&kp NUMBER_5",                  "&tog 0",                                                                          "&none", "&kp NUMBER_6", "&kp NUMBER_7",         "&kp N8", "&kp N9", "&kp N0",       "&kp MINUS",
+                "&none",     "&kp APOS",    "&kp COMMA",        "&kp DOT",           "&kp P",        "&kp Y",                   "&none",                                                                          "&none",        "&kp F",        "&kp G",          "&kp C",  "&kp R",  "&kp L",       "&kp SLASH",
+                "&none",        "&kp A",        "&kp O",          "&kp E",           "&kp U",        "&kp I",                   "&none",       "&none",   "&none", "&trans", "&trans",  "&none",     "&none",     "&none",        "&kp D",        "&kp H",          "&kp T",  "&kp N",  "&kp S",   "&kp BACKSLASH",
+       "&kp LEFT_SHIFT",     "&kp SEMI",        "&kp Q",          "&kp J",           "&kp K",        "&kp X",                  "&trans",      "&trans",   "&none", "&trans", "&trans",  "&none",    "&trans",    "&trans",        "&kp B",        "&kp M",          "&kp W",  "&kp V",  "&kp Z", "&kp RIGHT_SHIFT",
+                "&none",        "&none",        "&none", "&kp LEFT_ARROW", "&kp RIGHT_ARROW",                           "&kp BACKSPACE", "&kp LA(ESC)", "&kp ESC",                      "&none", "&kp ENTER", "&kp SPACE",                 "&kp UP_ARROW", "&kp DOWN_ARROW",  "&none",  "&none",           "&none"
     ]
   ]
 }
